@@ -1,0 +1,6 @@
+http://www.klxin.cn:3000/接口
+
+// 说明
+1. 在接口位置用api的地址替换即可访问同效果的在线接口
+    如： http://www.klxin.cn:3000/category/queryTopCategory
+2. 在线接口中和登录相关的接口可能有问题
